@@ -1,0 +1,23 @@
+html {
+    margin: auto;
+    max-width: 960px;
+    font-family: sans-serif;
+    background-color: #222222;
+    color: white;
+  }
+
+a:link {
+    color: #93b0ff;
+  }
+  
+a:visited {
+    color: #9febf5;
+  }
+  
+a:hover {
+    color: #7c95d8;
+  }
+  
+a:active {
+    color: white;
+  }
